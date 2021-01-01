@@ -1,0 +1,40 @@
+[{
+        "id": "0",
+        "brand": "Xiaomi",
+        "model": "Mi 10 Lite 5G (6Gb/64Gb)",
+        "processor": "Qualcomm Snapdragon 765G",
+        "rear-camera": "48 MP (F 1.79)",
+        "front-camera": "16MP (F 2.25)",
+        "internal-storage": "64Gb",
+        "RAM": "6Gb",
+        "display": "AMOLED 6.57\" ",
+        "price": "269.99 €",
+        "img": "./img/Mi10Lite.png"
+    },
+    {
+        "id": "1",
+        "brand": "Xiaomi",
+        "model": "Mi 10T 5G (6Gb/128Gb)",
+        "processor": "Qualcomm Snapdragon 865",
+        "rear-camera": "64MP (OIS)",
+        "front-camera": "20MP",
+        "internal-storage": "128Gb",
+        "RAM": "6Gb",
+        "display": "FHD 144Hz + LCD 6.67\" ",
+        "price": "499.99 €",
+        "img": "./img/Mi10T5G.png"
+    },
+    {
+        "id": "2",
+        "brand": "Xiaomi",
+        "model": "Mi 10T Pro 5G (8Gb/128Gb)",
+        "processor": "Qualcomm Snapdragon 865",
+        "rear-camera": "108MP (OIS)",
+        "front-camera": "20MP",
+        "internal-storage": "128Gb",
+        "RAM": "8Gb",
+        "screen": "FHD 144Hz + LCD 6.67\" ",
+        "price": "599.99 €",
+        "img": "./img/Mi10TPro5G.png"
+    }
+]
